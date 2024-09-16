@@ -1,4 +1,4 @@
-##Fichero para personalizar el perfil de github
+#Fichero para personalizar el perfil de github
 
 Hola este es un ejemplo
 
